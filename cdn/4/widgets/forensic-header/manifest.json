@@ -1,0 +1,19 @@
+{
+  "name": "forensic-header",
+  "label": "FORENSIC HUD HEADER",
+  "type": "widget",
+  "version": "1.20.0",
+  "exbVersion": "1.20.0",
+  "author": "LAF IBERO Puebla",
+  "description": "Header dinámico con estética HUD Forense.",
+  "properties": {
+    "hasSettingPage": true
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 1200,
+    "height": 80
+  }
+}

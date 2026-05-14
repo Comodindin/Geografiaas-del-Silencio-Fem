@@ -1,0 +1,21 @@
+{
+  "name": "year-controller",
+  "label": "NEW TEMPORAL HUD",
+  "type": "widget",
+  "version": "1.20.0",
+  "exbVersion": "1.20.0",
+  "author": "LAF IBERO Puebla",
+  "description": "Controlador HUD (V3) - Nueva Identidad.",
+  "properties": {
+    "hasSettingPage": true
+  },
+  "dependency": "jimu-arcgis",
+  "settingDependency": "jimu-arcgis",
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 300,
+    "height": 100
+  }
+}

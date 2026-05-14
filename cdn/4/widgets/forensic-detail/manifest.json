@@ -1,0 +1,20 @@
+{
+  "name": "forensic-detail",
+  "label": "FORENSIC CASE DETAIL",
+  "type": "widget",
+  "version": "1.20.0",
+  "exbVersion": "1.20.0",
+  "author": "LAF IBERO Puebla",
+  "description": "Visualizador de detalles de casos con estética forense.",
+  "properties": {
+    "hasSettingPage": true
+  },
+  "dependency": "jimu-arcgis",
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 400,
+    "height": 600
+  }
+}
