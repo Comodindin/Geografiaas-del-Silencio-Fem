@@ -4836,9 +4836,16 @@
     }
   },
   "attributes": {
-    "portalUrl": "https://IberoPuebla.maps.arcgis.com"
+    "portalUrl": "https://IberoPuebla.maps.arcgis.com",
+    "isWebTier": false,
+    "clientId": "Fkx1Lx6uTckDONND",
+    "express": false,
+    "title": "Feminicidios",
+    "description": "",
+    "type": "Web Experience",
+    "thumbnail": null
   },
-  "timestamp": 1778866066560,
+  "timestamp": 1778866234322,
   "sharedThemeVariables": null,
   "mainLocale": "es",
   "dataSources": {
@@ -4976,26 +4983,7 @@
     }
   },
   "permission": {
-    "restrictions": [
-      {
-        "id": "60cd6f50-5083-11f1-af67-9926bba3d1d8",
-        "orgId": "rDTVeGqkTuCQFOKR",
-        "pageIds": [
-          "page_15",
-          "page_16",
-          "page_4"
-        ],
-        "roleIds": [
-          "org_admin",
-          "iBBBBBBBBBBBBBBB",
-          "iCCCCCCCCCCCCCCC",
-          "org_publisher",
-          "org_user",
-          "iAAAAAAAAAAAAAAA"
-        ],
-        "groupIds": []
-      }
-    ],
+    "restrictions": [],
     "blockSignInPrompt": true
   },
   "analytics": {
@@ -5003,5 +4991,6 @@
   },
   "cookieBanner": {
     "uid": "4c65e4c0-5083-11f1-af67-9926bba3d1d8"
-  }
+  },
+  "publishTimestamp": 1778866235316
 }
